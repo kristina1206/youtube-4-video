@@ -1,0 +1,37 @@
+{
+ "users": [
+	{
+	"id": "1001",
+	"name": "denis",
+	"email": "denissidorov36@mail.ru",
+	"gender": "male",
+	"contact": {
+		"mobile": "+79841132503"
+		"home": "00 000000"
+		"office": "00 000000"
+                }
+    },
+    {
+	"id": "1002",
+	"name": "kristina",
+	"email": "kris@mail.ru",
+	"gender": "female",
+	"contact": {
+		"mobile": "+71841132503"
+		"home": "00 000000"
+		"office": "00 000000"
+                }
+    },
+    {
+	"id": "1003",
+	"name": "mark",
+	"email": "mark@mail.ru",
+	"gender": "male",
+	"contact": {
+		"mobile": "+72841132503"
+		"home": "00 000000"
+		"office": "00 000000"
+                }
+    }
+            ]
+}
